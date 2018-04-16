@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+/cache
+.phalcon
+.DS_Store
+.idea/workspace.xml
+.phalcon/
+app/.DS_Store
+app/library/.DS_Store
+debug/
+
